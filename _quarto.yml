@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    title: "raianerosseti"
+    left:
+      - href: about.qmd
+        text: Sobre mim
+      - href: Projetos.qmd
+        text: Projetos
+
+    
+    right:
+      - icon: github
+        href: https://github.com/Raianerosseti
+        aria-label: GitHub  
+
+format:
+  html:
+    theme: minty
+    mainfont: arial
+    fontsize: 1rem
+    fontcolor: "#2E8B57"
+    linkcolor: "#2E8B57"
+    monofont: courier new
+    css: styles.css
+    toc: true
+
+editor: visual
+

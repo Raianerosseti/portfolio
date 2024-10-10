@@ -1,0 +1,33 @@
+---
+title: "Raiane Rosseti"
+about: 
+  template: trestles
+  image: Rai.jpeg
+  image-width: 15em
+  image-shape: rectangle
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/raiane-rosseti-600816142
+    - icon: envelope
+      text: E-mail
+      href: mailto:raianerossetii@gmail.com
+---
+
+::: {style="font-size: 30px"}
+Olá, seja bem-vindo(a)!
+:::
+
+<div>
+
+Aqui você poderá conhecer um pouco sobre mim e sobre meus projetos pessoais.
+
+</div>
+
+::: {style="font-size: 20px"}
+Quem sou eu?
+:::
+
+::: {style="font-size: 17px"}
+Sou estudante de Estatística, mãe do Miguel, apaixonada por música e fascinada pelo universo dos dados. Adoro estar na companhia de pessoas queridas e gosto de passar o tempo em lugares cercados pela natureza ou em casa, assistindo a séries e filmes, lendo livros ou explorando novos assuntos de interesse. Também sou uma torcedora fervorosa do Praia Clube! Estou sempre em busca de novas experiências e aprendizados!
+:::
